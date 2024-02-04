@@ -8,4 +8,4 @@ Project from the third Web3 Week (29-jan-24). https://www.luiztools.com.br/w3w
 
 Dapp to vote/interact with the Big Brother show, a way to vote a unique time guaranteeing the trustiness of the show, transparent, immutable and auditable.
 
-Special thanks to Luiz to this teachings
+Special thanks to Luiz for this teachings
